@@ -12,7 +12,7 @@ const AboutSection = () => {
 				<div className="container">
 					<SectionHeader
 						textTheme="light"
-						titleText="About Lunar Trek"
+						titleText="About Traverse Moon"
 						subtitleText="Read about the history of lunar seismic events."
 					/>
 					<div className={`text-light ${styles["about-container"]}`}>

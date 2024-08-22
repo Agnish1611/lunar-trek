@@ -9,7 +9,7 @@ const HomeSection = () => {
 				<h1
 					ref={elementRef}
 					className={`display-1 text-light ${styles["title"]}`}>
-					LUNAR TREK
+					TRAVERSE MOON
 				</h1>
 			</div>
 		</div>
